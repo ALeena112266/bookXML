@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book id="1">
+        <title>bird</title>
+        <author> aLee</author>
+        <publicationYear>1960</publicationYear>
+        <genre>Fiction</genre>
+    </book>
+    
+    <book>
+        <title>era</title>
+        <author>ahmad</author>
+        <publicationYear>1949</publicationYear>
+        <genre>Classic</genre>
+    </book>
+    
+    <book>
+        <title>The Great</title>
+        <author>ali</author>
+        <publicationYear>1925</publicationYear>
+        <genre>Classic</genre>
+    </book>
+</library>
